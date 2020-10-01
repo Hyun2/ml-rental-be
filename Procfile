@@ -1,1 +1,1 @@
-web: gunicorn rental.wsgi
+web: gunicorn rental.wsgi -b 0.0.0.0:5000
