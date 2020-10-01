@@ -14,6 +14,7 @@ django-cors-headers = "*"
 joblib = "*"
 pandas = "*"
 catboost = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
